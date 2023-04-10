@@ -28,7 +28,7 @@ I'm a self-taught passionate BackEnd developer from Azerbaijan
 <a href="https://github.com/parvizhajili/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parvizhajili&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/parvizhajili/parvizhajili.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parvizhajili&repo=parvizhajili.github.io&theme=buefy" />
 </a>
 
