@@ -33,6 +33,6 @@
   <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> -->
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gncyyldz&show_icons=true&locale=en&layout=compact" alt="parvizhajili" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvizhajili&show_icons=true&locale=en&layout=compact" alt="parvizhajili" /></p>
 
 
